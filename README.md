@@ -9,6 +9,6 @@ The ranking for accounts is similar to the challenges, going from Level 8 Kyu do
 
 For the best examples of my Python programming skills, check out my Level 4 Kata. Those are the highest difficulty challenges I've achieved so far. They are:
 
-Human_Readable_Duration_Format \n
-Strip_Comments \n
+Human_Readable_Duration_Format,
+Strip_Comments,
 Sudoku_Solution_Validator
