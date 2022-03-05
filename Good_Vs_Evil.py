@@ -1,6 +1,6 @@
 # Level 6 Kata - Code Wars
 # Description
-Middle Earth is about to go to war. The forces of good will have many battles with the forces of evil. Different races will certainly be involved. Each race has a 
+# Middle Earth is about to go to war. The forces of good will have many battles with the forces of evil. Different races will certainly be involved. Each race has a 
 # certain worth when battling against others. On the side of good we have the following races, with their associated worth:
 
 # Hobbits: 1
